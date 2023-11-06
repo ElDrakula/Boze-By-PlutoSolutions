@@ -8,7 +8,7 @@
    <image src="https://github.com/ElDrakula/Boze-By-PlutoSolutions/assets/141874466/5b97e43b-5e02-48a0-9cab-50ebf5d60ab5" width="500" height="200">
 
 ## [ info ]
-Newest version of the newest goyslop made by Konas developers. This time, it's for 1.20.1 and it has an API for addons.
+Boze version 1.19.2 is in this repository [here](https://github.com/PlutoSolutions/Boze),   Newest version of the newest goyslop made by Konas developers. This time, it's for 1.20.1 and it has an API for addons.
                                              [You don't want to use this](https://youtu.be/byghbcn7xws)
 
 ## [ addons ]
