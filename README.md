@@ -15,7 +15,7 @@ To make addons for this garbage you need to download this [repository](https://g
                              [Click here for a video example of a well made addon](https://www.youtube.com/watch?v=0AK_gasEA2o)
                                              
 ## [ how-to ]
-Download the Fabric installer from {here](https://fabricmc.net/use/installer/), open it and choose Minecraft 1.20.1 & Fabric Loader 0.14.21
+Download the Fabric installer from [here](https://fabricmc.net/use/installer/), open it and choose Minecraft 1.20.1 & Fabric Loader 0.14.21
 Download bozecrack.zip from [here](https://github.com/ElDrakula/Boze-By-PlutoSolutions/releases/tag/client-cracked)  and extract everything into your .minecraft/mods folder
 Start the game (with Fabric) 
 
