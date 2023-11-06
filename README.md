@@ -3,7 +3,7 @@
 ###   mirrors:
 
    [crystalpvp.ru](https://crystalpvp.ru/bozeupdate/)
- ![image](https://github.com/ElDrakula/BozeUpdate-By-PlutoSolutions/assets/141874466/63ebf0f9-824f-47c9-8446-61e1e8f552bb)
+ ![image](https://github.com/ElDrakula/Boze-By-PlutoSolutions/assets/141874466/21e5f505-837d-4ce1-a687-394d944de344)
 
 ## [ info ]
 Newest version of the newest goyslop made by Konas developers. This time, it's for 1.20.1 and it has an API for addons.
