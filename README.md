@@ -1,5 +1,4 @@
 ## Boze  By PlutoSolutions
-Boze 1.2 (Freeware Edition)
 
    mirrors:
 
